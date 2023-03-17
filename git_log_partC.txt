@@ -1,0 +1,211 @@
+commit 98bc83ac4b153962a9ef758d99a6d70b11d32bf9
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 19:25:23 2023 +0530
+
+    Lab Eval Soln
+
+diff --git a/Software_Lab_3.pdf b/Software_Lab_3.pdf
+new file mode 100644
+index 0000000..35f3359
+--- /dev/null
++++ b/Software_Lab_3.pdf
+@@ -0,0 +1,12 @@
++                     Software Lab
++
++Question 1 to 10 :-
++Question 11 to 15 :-
++Question 16 to 19 :-
++Question 20 to 26 :-
++Question 27 and 28 :-
++Question 29 :-
++Question 30 to 32 :-
++Question 33 :-
++Question 34 and 35 :-
++
+
+commit b2da691ce589c128250ada01bc7aba29929eaee1
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 19:19:07 2023 +0530
+
+    log file
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..3de7f41
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 JPMC
+diff --git a/git_log_partB.txt b/git_log_partB.txt
+new file mode 100644
+index 0000000..9817bd7
+--- /dev/null
++++ b/git_log_partB.txt
+@@ -0,0 +1,83 @@
++commit 9024901597fc87ccf0fcf27d5e5d54053eacadfd
++Author: Doctor9Trio <ravibishnoi2110@gmail.com>
++Date:   Fri Mar 17 19:05:13 2023 +0530
++
++    Deleting file2.txt
++
++diff --git a/file1.txt b/file1.txt
++index 3c9de78..99168da 100644
++--- a/file1.txt
+++++ b/file1.txt
++@@ -2,3 +2,4 @@ Ravi Bishnoi
++ Master
++ Restaurant :- Hotel Flower INN
++ Movie :- Nevermore
+++Colour :- Grey
++diff --git a/file2.txt b/file2.txt
++deleted file mode 100644
++index 3de7f41..0000000
++--- a/file2.txt
+++++ /dev/null
++@@ -1 +0,0 @@
++-2025 JPMC
++
++commit e7c0ec1d6e09684227ede2c6b024accfa2758f26
++Author: Doctor9Trio <ravibishnoi2110@gmail.com>
++Date:   Fri Mar 17 19:00:23 2023 +0530
++
++    Graduation year and job
++
++diff --git a/file2.txt b/file2.txt
++new file mode 100644
++index 0000000..3de7f41
++--- /dev/null
+++++ b/file2.txt
++@@ -0,0 +1 @@
+++2025 JPMC
++
++commit 66335065fdfc634b181ab9b10bcc3242833edeb3
++Author: Doctor9Trio <ravibishnoi2110@gmail.com>
++Date:   Fri Mar 17 18:52:41 2023 +0530
++
++    Added favorite Restaurant and Movie
++
++diff --git a/file1.txt b/file1.txt
++index bfefaa1..3c9de78 100644
++--- a/file1.txt
+++++ b/file1.txt
++@@ -1,2 +1,4 @@
++ Ravi Bishnoi 
++ Master
+++Restaurant :- Hotel Flower INN
+++Movie :- Nevermore
++
++commit de75de65260030a5654d0394b488093b3c9d7ae3
++Author: Doctor9Trio <ravibishnoi2110@gmail.com>
++Date:   Fri Mar 17 18:50:04 2023 +0530
++
++    Now has my major
++
++diff --git a/file1.txt b/file1.txt
++index d4d672c..bfefaa1 100644
++--- a/file1.txt
+++++ b/file1.txt
++@@ -1,2 +1,2 @@
++-Ravi Bishnoi  BT21CSE117
++-
+++Ravi Bishnoi 
+++Master
++
++commit ddf59461872701464198b63aab4f96eb66b86ac8
++Author: Doctor9Trio <ravibishnoi2110@gmail.com>
++Date:   Fri Mar 17 18:46:41 2023 +0530
++
++    Student Detail
++
++diff --git a/file1.txt b/file1.txt
++new file mode 100644
++index 0000000..d4d672c
++--- /dev/null
+++++ b/file1.txt
++@@ -0,0 +1,2 @@
+++Ravi Bishnoi  BT21CSE117
+++
+
+commit 9024901597fc87ccf0fcf27d5e5d54053eacadfd
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 19:05:13 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 3c9de78..99168da 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -2,3 +2,4 @@ Ravi Bishnoi
+ Master
+ Restaurant :- Hotel Flower INN
+ Movie :- Nevermore
++Colour :- Grey
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 3de7f41..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 JPMC
+
+commit e7c0ec1d6e09684227ede2c6b024accfa2758f26
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 19:00:23 2023 +0530
+
+    Graduation year and job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..3de7f41
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 JPMC
+
+commit 66335065fdfc634b181ab9b10bcc3242833edeb3
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 18:52:41 2023 +0530
+
+    Added favorite Restaurant and Movie
+
+diff --git a/file1.txt b/file1.txt
+index bfefaa1..3c9de78 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ Ravi Bishnoi 
+ Master
++Restaurant :- Hotel Flower INN
++Movie :- Nevermore
+
+commit de75de65260030a5654d0394b488093b3c9d7ae3
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 18:50:04 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index d4d672c..bfefaa1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,2 @@
+-Ravi Bishnoi  BT21CSE117
+-
++Ravi Bishnoi 
++Master
+
+commit ddf59461872701464198b63aab4f96eb66b86ac8
+Author: Doctor9Trio <ravibishnoi2110@gmail.com>
+Date:   Fri Mar 17 18:46:41 2023 +0530
+
+    Student Detail
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..d4d672c
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++Ravi Bishnoi  BT21CSE117
++
